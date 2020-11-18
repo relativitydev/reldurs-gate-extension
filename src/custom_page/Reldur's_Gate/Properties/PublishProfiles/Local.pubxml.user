@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\SourceCode\Phaser Samples\Reldur's Custom Page\publish</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="assets/bomb.png">
+      <publishTime>11/13/2020 13:34:14</publishTime>
+    </File>
+    <File Include="assets/dude.png">
+      <publishTime>11/13/2020 13:34:14</publishTime>
+    </File>
+    <File Include="assets/mushroom.png">
+      <publishTime>11/13/2020 13:34:14</publishTime>
+    </File>
+    <File Include="assets/platform.png">
+      <publishTime>11/13/2020 13:34:14</publishTime>
+    </File>
+    <File Include="assets/sky.png">
+      <publishTime>11/13/2020 13:34:14</publishTime>
+    </File>
+    <File Include="assets/star.png">
+      <publishTime>11/13/2020 13:34:14</publishTime>
+    </File>
+    <File Include="assets/tile1.png">
+      <publishTime>11/13/2020 13:34:14</publishTime>
+    </File>
+    <File Include="assets/walk.png">
+      <publishTime>11/13/2020 13:34:14</publishTime>
+    </File>
+    <File Include="assets/walkleft.png">
+      <publishTime>11/13/2020 13:34:14</publishTime>
+    </File>
+    <File Include="bin/BCrypt.Net-Core.dll">
+      <publishTime>12/20/2018 15:32:44</publishTime>
+    </File>
+    <File Include="bin/BCrypt.Net-Core.pdb">
+      <publishTime>12/20/2018 15:32:44</publishTime>
+    </File>
+    <File Include="bin/BCrypt.Net.dll">
+      <publishTime>11/21/2013 16:53:24</publishTime>
+    </File>
+    <File Include="bin/BCrypt.Net.pdb">
+      <publishTime>11/21/2013 16:53:24</publishTime>
+    </File>
+    <File Include="bin/kCura.dll">
+      <publishTime>01/11/2020 00:02:06</publishTime>
+    </File>
+    <File Include="bin/kCura.Relativity.Client.dll">
+      <publishTime>11/16/2019 00:47:16</publishTime>
+    </File>
+    <File Include="bin/Relativity Custom Page Form.dll">
+      <publishTime>11/13/2020 13:36:36</publishTime>
+    </File>
+    <File Include="bin/Relativity Custom Page Form.pdb">
+      <publishTime>11/13/2020 13:36:36</publishTime>
+    </File>
+    <File Include="bin/Relativity.API.dll">
+      <publishTime>09/17/2020 20:37:18</publishTime>
+    </File>
+    <File Include="bin/Relativity.CustomPages.dll">
+      <publishTime>09/17/2020 20:37:18</publishTime>
+    </File>
+    <File Include="bin/Relativity.dll">
+      <publishTime>05/28/2020 01:53:32</publishTime>
+    </File>
+    <File Include="bin/Relativity.Kepler.dll">
+      <publishTime>04/01/2019 21:43:24</publishTime>
+    </File>
+    <File Include="bin/Relativity.Logging.dll">
+      <publishTime>05/23/2019 14:15:10</publishTime>
+    </File>
+    <File Include="bin/Relativity.Logging.Interfaces.dll">
+      <publishTime>05/23/2019 14:15:10</publishTime>
+    </File>
+    <File Include="bin/Relativity.Services.DataContracts.dll">
+      <publishTime>11/16/2019 00:47:34</publishTime>
+    </File>
+    <File Include="bin/Relativity.Services.Interfaces.dll">
+      <publishTime>11/16/2019 00:47:34</publishTime>
+    </File>
+    <File Include="bin/Relativity.Services.ServiceProxy.dll">
+      <publishTime>04/01/2019 21:43:46</publishTime>
+    </File>
+    <File Include="bin/System.Configuration.ConfigurationManager.dll">
+      <publishTime>05/15/2018 13:29:38</publishTime>
+    </File>
+    <File Include="bin/System.Data.SqlClient.dll">
+      <publishTime>11/10/2018 15:13:36</publishTime>
+    </File>
+    <File Include="bin/System.Security.AccessControl.dll">
+      <publishTime>05/15/2018 13:29:42</publishTime>
+    </File>
+    <File Include="bin/System.Security.Permissions.dll">
+      <publishTime>05/15/2018 13:29:40</publishTime>
+    </File>
+    <File Include="bin/System.Security.Principal.Windows.dll">
+      <publishTime>05/15/2018 13:29:42</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>11/13/2020 13:34:42</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>11/13/2020 13:08:56</publishTime>
+    </File>
+    <File Include="lib/phaser.js">
+      <publishTime>11/13/2020 13:27:40</publishTime>
+    </File>
+    <File Include="LICENSE.txt">
+      <publishTime>11/13/2020 13:08:56</publishTime>
+    </File>
+    <File Include="src/main.js">
+      <publishTime>11/13/2020 13:27:54</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>11/13/2020 13:43:04</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

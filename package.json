@@ -4,8 +4,9 @@
 	"description": "Relativity Rogue Extension",
 	"main": "index.js",
 	"scripts": {
-		"build": "webpack -p",
-		"build.dev": "webpack -d"
+		"build": "powershell; cd '.\\src\\custom_page\\Reldur''s_Gate'; msbuild Reldurs_Gate.csproj /p:PublishUrl=..\\..\\..\\dist\\publish /p:DeployOnBuild=true /p:Configuration=Release /p:WebPublishMethod=FileSystem /p:DeployTarget=WebPublish /p:AutoParameterizationWebConfigConnectionStrings=false; cd '..\\..\\..\\'; webpack -p",
+		"build.dev": "powershell; cd '.\\src\\custom_page\\Reldur''s_Gate'; msbuild Reldurs_Gate.csproj /p:PublishUrl=..\\..\\..\\dist\\publish /p:DeployOnBuild=true /p:Configuration=Release /p:WebPublishMethod=FileSystem /p:DeployTarget=WebPublish /p:AutoParameterizationWebConfigConnectionStrings=false; cd '..\\..\\..\\'; webpack -d",
+		"build.page": "cd '.\\src\\custom_page\\Reldur''s_Gate\\'; msbuild Reldurs_Gate.csproj /p:PublishUrl=.\\publish /p:DeployOnBuild=true /p:Configuration=Release /p:WebPublishMethod=FileSystem /p:DeployTarget=WebPublish /p:AutoParameterizationWebConfigConnectionStrings=false"
 	},
 	"author": "Relativity ODA LLC",
 	"license": "ISC",
@@ -21,6 +22,8 @@
 	"dependencies": {
 		"loglevel": "^1.7.0",
 		"loglevel-plugin-prefix": "^0.8.4",
-		"phaser": "^3.24.1"
+		"msbuild": "^1.1.3",
+		"phaser": "^3.24.1",
+		"webpack-msbuild-plugin": "^1.0.15"
 	}
 }

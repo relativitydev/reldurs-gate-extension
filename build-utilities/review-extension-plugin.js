@@ -1,4 +1,6 @@
 const { ConcatSource } = require("webpack-sources");
+var _msbuild = require('msbuild');
+
 
 const EXTENSION_NAME = "ReviewExtensionPlugin"
 
@@ -30,7 +32,9 @@ class ReviewExtensionPlugin {
 		} else {
 			options.mode = "production";
 		}
-
+		var msbuild = new _msbuild(); 
+		msbuild.sourcePath = "C:\SourceCode\Phaser Samples\Reldur's Review Extension\src\custom_page\Reldur's_Gate\Reldur's_Gate.csproj";
+		msbuild.build();
 		options.outputFilenames = options.outputFilenames || [];
 
 		return options;

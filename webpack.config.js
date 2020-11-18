@@ -27,10 +27,6 @@ module.exports = (env, argv) => {
 				mode: argv.mode,
 			}),
 			new CopyPlugin([
-				// { from: "./src/cards/clock/clock.html", to: prefixResourceFileName("clock.html") },
-				// { from: "./src/cards/clock/clock.js", to: prefixResourceFileName("clock.js") },
-				// { from: "./src/cards/clock/clock.css", to: prefixResourceFileName("clock.css") },
-				// { from: "./src/cards/color-controls/color-controls.html", to: prefixResourceFileName("color-controls.html") },
 				 { from: "./src/plugins/inventory_forms.js", to: prefixResourceFileName("inventory-forms-script.js") },
 			]),
 		]

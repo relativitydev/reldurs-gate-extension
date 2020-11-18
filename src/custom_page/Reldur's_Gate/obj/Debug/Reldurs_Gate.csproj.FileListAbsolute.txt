@@ -1,0 +1,30 @@
+C:\SourceCode\Phaser_Samples\Reldurs_Review_Extension\src\custom_page\Reldur's_Gate\bin\Relativity Custom Page Form.dll.config
+C:\SourceCode\Phaser_Samples\Reldurs_Review_Extension\src\custom_page\Reldur's_Gate\bin\Relativity Custom Page Form.dll
+C:\SourceCode\Phaser_Samples\Reldurs_Review_Extension\src\custom_page\Reldur's_Gate\bin\Relativity Custom Page Form.pdb
+C:\SourceCode\Phaser_Samples\Reldurs_Review_Extension\src\custom_page\Reldur's_Gate\bin\BCrypt.Net-Core.dll
+C:\SourceCode\Phaser_Samples\Reldurs_Review_Extension\src\custom_page\Reldur's_Gate\bin\BCrypt.Net.dll
+C:\SourceCode\Phaser_Samples\Reldurs_Review_Extension\src\custom_page\Reldur's_Gate\bin\kCura.dll
+C:\SourceCode\Phaser_Samples\Reldurs_Review_Extension\src\custom_page\Reldur's_Gate\bin\kCura.Relativity.Client.dll
+C:\SourceCode\Phaser_Samples\Reldurs_Review_Extension\src\custom_page\Reldur's_Gate\bin\Relativity.API.dll
+C:\SourceCode\Phaser_Samples\Reldurs_Review_Extension\src\custom_page\Reldur's_Gate\bin\Relativity.CustomPages.dll
+C:\SourceCode\Phaser_Samples\Reldurs_Review_Extension\src\custom_page\Reldur's_Gate\bin\Relativity.dll
+C:\SourceCode\Phaser_Samples\Reldurs_Review_Extension\src\custom_page\Reldur's_Gate\bin\Relativity.Kepler.dll
+C:\SourceCode\Phaser_Samples\Reldurs_Review_Extension\src\custom_page\Reldur's_Gate\bin\Relativity.Logging.dll
+C:\SourceCode\Phaser_Samples\Reldurs_Review_Extension\src\custom_page\Reldur's_Gate\bin\Relativity.Logging.Interfaces.dll
+C:\SourceCode\Phaser_Samples\Reldurs_Review_Extension\src\custom_page\Reldur's_Gate\bin\Relativity.Services.DataContracts.dll
+C:\SourceCode\Phaser_Samples\Reldurs_Review_Extension\src\custom_page\Reldur's_Gate\bin\Relativity.Services.Interfaces.dll
+C:\SourceCode\Phaser_Samples\Reldurs_Review_Extension\src\custom_page\Reldur's_Gate\bin\Relativity.Services.ServiceProxy.dll
+C:\SourceCode\Phaser_Samples\Reldurs_Review_Extension\src\custom_page\Reldur's_Gate\bin\System.Configuration.ConfigurationManager.dll
+C:\SourceCode\Phaser_Samples\Reldurs_Review_Extension\src\custom_page\Reldur's_Gate\bin\System.Data.SqlClient.dll
+C:\SourceCode\Phaser_Samples\Reldurs_Review_Extension\src\custom_page\Reldur's_Gate\bin\System.Security.AccessControl.dll
+C:\SourceCode\Phaser_Samples\Reldurs_Review_Extension\src\custom_page\Reldur's_Gate\bin\System.Security.Permissions.dll
+C:\SourceCode\Phaser_Samples\Reldurs_Review_Extension\src\custom_page\Reldur's_Gate\bin\System.Security.Principal.Windows.dll
+C:\SourceCode\Phaser_Samples\Reldurs_Review_Extension\src\custom_page\Reldur's_Gate\bin\BCrypt.Net.pdb
+C:\SourceCode\Phaser_Samples\Reldurs_Review_Extension\src\custom_page\Reldur's_Gate\bin\BCrypt.Net.xml
+C:\SourceCode\Phaser_Samples\Reldurs_Review_Extension\src\custom_page\Reldur's_Gate\bin\BCrypt.Net-Core.pdb
+C:\SourceCode\Phaser_Samples\Reldurs_Review_Extension\src\custom_page\Reldur's_Gate\bin\Relativity.CustomPages.xml
+C:\SourceCode\Phaser_Samples\Reldurs_Review_Extension\src\custom_page\Reldur's_Gate\obj\Debug\Reldurs_Gate.csprojAssemblyReference.cache
+C:\SourceCode\Phaser_Samples\Reldurs_Review_Extension\src\custom_page\Reldur's_Gate\obj\Debug\Reldurs_Gate.csproj.CoreCompileInputs.cache
+C:\SourceCode\Phaser_Samples\Reldurs_Review_Extension\src\custom_page\Reldur's_Gate\obj\Debug\Reldurs_Gate.csproj.CopyComplete
+C:\SourceCode\Phaser_Samples\Reldurs_Review_Extension\src\custom_page\Reldur's_Gate\obj\Debug\Relativity Custom Page Form.dll
+C:\SourceCode\Phaser_Samples\Reldurs_Review_Extension\src\custom_page\Reldur's_Gate\obj\Debug\Relativity Custom Page Form.pdb
