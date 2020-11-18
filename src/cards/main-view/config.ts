@@ -4,7 +4,7 @@ import { MainCardInstance } from "./main-card-instance";
 
 export default (loggerFactory: LoggerFactory) => ({
 	id: Constants.Main.ID,
-	title: "Character",
+	title: "Reldur's Gate",
 	order: 10,
 	icon: {
         url: "https://www.relativity.com/relativity/images/footer-logo-2x.png"
