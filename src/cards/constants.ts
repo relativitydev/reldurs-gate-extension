@@ -3,8 +3,8 @@ export const Constants = {
         ID: "dock.cards.inventory",
         CARD_ID: "inventory-card"
     },
-    Character: {
-        ID: "dock.cards.character",
-        CARD_ID: "character-card"
+    Main: {
+        ID: "dock.cards.main",
+        CARD_ID: "main-card"
     }     
 }

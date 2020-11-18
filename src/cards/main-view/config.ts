@@ -1,10 +1,9 @@
 import { LoggerFactory } from "../../utilities/logger-factory";
 import { Constants } from "../constants";
-import { characterCardHtml } from "./character-card-html";
-import { CharacterCardInstance } from "./character-card-instance";
+import { MainCardInstance } from "./main-card-instance";
 
 export default (loggerFactory: LoggerFactory) => ({
-	id: Constants.Character.ID,
+	id: Constants.Main.ID,
 	title: "Character",
 	order: 10,
 	icon: {
@@ -21,5 +20,5 @@ export default (loggerFactory: LoggerFactory) => ({
             url: top.window.origin + "/Relativity/CustomPages/71c26786-a8b8-4514-bd16-3ef92fca76da/default.aspx"
         }
     },
-    createInstance: function (card) { return new CharacterCardInstance(loggerFactory, card); },
+    createInstance: function (card) { return new MainCardInstance(loggerFactory, card); },
 });

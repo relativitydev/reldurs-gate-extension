@@ -82,7 +82,7 @@ export class SampleExtension {
 		try {
 			this._logger.info(`Creating ${this.name} cards...`);
 			api.cards.createCard(CardConstants.Inventory.ID, undefined, api.viewer.mainCollection);
-			api.cards.createCard(CardConstants.Character.ID);
+			api.cards.createCard(CardConstants.Main.ID);
 		} catch (e) {
 			this._logger.error(`Failed to create ${this.name} cards. ${e.message}`);
 			throw e;

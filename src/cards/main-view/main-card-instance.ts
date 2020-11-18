@@ -1,7 +1,7 @@
 import { Constants } from "../constants";
 import { Logger } from "loglevel";
 
-export class CharacterCardInstance {
+export class MainCardInstance {
 
 	private _logger: Logger;
 	private _card;
